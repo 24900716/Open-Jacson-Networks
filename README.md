@@ -18,8 +18,10 @@ Visual components and Python
 
 ## Experiment:
 
-![img1]()
-![img2]()
+![img1](https://github.com/ragulmani936/Open-Jacson-Networks/blob/main/img1.png)
+
+
+![img2](https://github.com/ragulmani936/Open-Jacson-Networks/blob/main/img2.png)
 
 ## Program
 ~~~
@@ -68,7 +70,7 @@ print("----------------------------------------------------------------------")
 
 ## Output
 
-![img3]()
+![img3](https://github.com/ragulmani936/Open-Jacson-Networks/blob/main/img3.png)
 
 ## Result
 
